@@ -1,3 +1,12 @@
 #header{background-image:url(../images/headerfon.jpg); background-repeat: repeat-x;  margin-right: 10px; margin-left: 10px; border-width: 1px; border-color: black; border-style: solid;}
 .logo{padding: 10%;}
-#wrap{ border: 1px solid red ; width: 1000px;margin-left: 100px; padding: 40px;}
+#wrap{ border: 1px solid red ;
+ width: 1000px;margin-left: 100px; 
+ padding: 40px;
+display: inline-block;}
+.block{border: 1px solid blue; width: 250px;}
+.sidebar{border: 1px solid black; 
+float: 	right;	width:250px; margin:  10px;}
+.content{float: left;padding: 10px;
+ display: inline-block;}
+.Fras{padding: 24px 2px 9px 17px;}
